@@ -38,6 +38,8 @@ Do these histograms show the need to convert the variables to a logarithmic scal
 
 ### Kernel smoothing
 
+With a bandwidth of 8000. The default was 12000.
+
 ![](output/kernelSmoothingMap.svg)
 
 ### Clustering (k-means)
