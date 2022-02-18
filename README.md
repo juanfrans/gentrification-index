@@ -12,6 +12,14 @@ This recalculation is done with census data for 2019 and uses Python instead of 
 
 ![](output/pairPlots.svg)
 
+### Histogram for each variable
+
+![](output/histograms.svg)
+
+### PCA variables plot
+
+![](output/pcaVariablesPlot.svg)
+
 ### Spatial lag
 
 ![](output/spatialLagMaps.svg)
